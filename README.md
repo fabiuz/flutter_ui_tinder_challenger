@@ -1,6 +1,7 @@
 # flutter_ui_challenge_tinder_matching
 
-A new Flutter project.
+Um aplicação em flutter, seguindo o tutorial:
+Flutter challenge: Tinder Matching, disponível em: https://www.youtube.com/watch?v=NMHhzd5ewP4
 
 ## Getting Started
 
